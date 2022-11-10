@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+#add_customer .add_customer_cancel{
+    background-color:#B20000;
+	color:#ffffff;
+	font-weight:400;
+	height:45px
+}
+
+#add_customer .add_customer_header{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#add_customer .add_customer_heading{
+    color:#5C00A3
+}
+
+#add_customer .add_customer_submit{
+    background-color: #5C00A3;
+    color: #ffffff;
+    border: none;
+    height: 40px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+#add_customer .add_customer_label{
+    font-size: 24px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
